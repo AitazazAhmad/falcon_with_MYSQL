@@ -3,7 +3,7 @@
         "id":1,
         "name":"Siemens SIMATIC PLC",
         "description": "Company: Siemens, Model: S7-1200, Type: DC-DC-DC",
-        "price": 0,
+        "price": 20,
         "image": "./images/7.jpeg"
     },
     {
